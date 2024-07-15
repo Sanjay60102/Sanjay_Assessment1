@@ -1,0 +1,14 @@
+D:\FintTraining\Dotnet\Assessment1\bin\Debug\net8.0\Assessment1.exe
+D:\FintTraining\Dotnet\Assessment1\bin\Debug\net8.0\Assessment1.deps.json
+D:\FintTraining\Dotnet\Assessment1\bin\Debug\net8.0\Assessment1.runtimeconfig.json
+D:\FintTraining\Dotnet\Assessment1\bin\Debug\net8.0\Assessment1.dll
+D:\FintTraining\Dotnet\Assessment1\bin\Debug\net8.0\Assessment1.pdb
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.AssemblyInfoInputs.cache
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.AssemblyInfo.cs
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.csproj.CoreCompileInputs.cache
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.dll
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\refint\Assessment1.dll
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.pdb
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\Assessment1.genruntimeconfig.cache
+D:\FintTraining\Dotnet\Assessment1\obj\Debug\net8.0\ref\Assessment1.dll
